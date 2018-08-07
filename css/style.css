@@ -3,7 +3,7 @@ body {
   background-color: powderblue;
   color: darkblue;
   background: linear-gradient(270deg, #17edb6, #1cbe94, #1e8d70);
-background-size: 600% 600%;
+  background-size: 600% 600%;
 
 -webkit-animation: AnimationName 30s ease infinite;
 -moz-animation: AnimationName 30s ease infinite;
@@ -23,7 +23,6 @@ animation: AnimationName 30s ease infinite;
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
-}
 }
 
 
