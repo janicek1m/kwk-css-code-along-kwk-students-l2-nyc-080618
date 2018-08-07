@@ -1,6 +1,6 @@
 /* add CSS class and element and selectors here */
 body {
-  background: linear-gradientpowderblue;
+  background: linear-gradient(powderblue, blue, white);
   color: darkblue;
 }
 
